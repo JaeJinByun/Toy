@@ -19,13 +19,11 @@
 	이벤트처리<br>
 </div>
 
-
 <br><br><br><br>
 <h3> jQuery 연습 테이블 </h3>
 
-
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/103496262/165907815-c93fb450-6032-40d2-ad57-98b49e8fac8e.gif">
 </p>
 
 #
@@ -34,4 +32,12 @@
 <div align=center> 
 	jQuery 문법 연습해보기<br>
 	css연습해보기<br>
+	<br>
+	키보드를 누를때마다 키보드주위로<br>
+	 퍼지는 빛처럼
+	구현해보고싶었다..
+
 </div>
+
+
+
