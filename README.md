@@ -32,10 +32,7 @@
 <div align=center> 
 	jQuery 문법 연습해보기<br>
 	css연습해보기<br>
-	<br>
-	키보드를 누를때마다 키보드주위로<br>
-	 퍼지는 빛처럼
-	구현해보고싶었다..
+	
 
 </div>
 
